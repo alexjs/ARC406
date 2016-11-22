@@ -1,3 +1,3 @@
-# ARC406
+# CTD406
 
-This repository contains the two files referenced in the ARC406 talk from re:Invent 2016
+This repository contains the two files referenced in the CTD303 talk from re:Invent 2016
