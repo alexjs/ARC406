@@ -4,7 +4,7 @@
 # Config options here.
 # Please also remember to set an IAM role on the instance in question
 # Sample policy for that role contained within this repo
-# https://github.com/alexjs/ARC406
+# https://github.com/alexjs/CTD303
 ############
 
 mountPoint="/opt/myAppName/var/run"
